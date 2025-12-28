@@ -11,18 +11,18 @@ def sayilari_oku(dosya_adi: str):
         print("Hata: Belirtilen dosya bulunamadı.")
         raise
 
-    # Virgülleri boşluğa çevir, sonra split ile ayır
+
     icerik = icerik.replace(",", " ")
     parcalar = icerik.split()
 
     sayilar = []
     for p in parcalar:
         try:
-            # Tam sayı olarak dene
+           
             sayi = int(p)
         except ValueError:
             try:
-                # Olmazsa ondalık (float) dene
+               
                 sayi = float(p)
             except ValueError:
                 raise ValueError(f"Geçersiz sayı değeri: '{p}'")
@@ -52,7 +52,7 @@ def bubble_sort_istatistikli(liste):
     bit = time.perf_counter()
     sure_ms = (bit - bas) * 1000
 
-    adim = karsilastirma + swap
+    adim = karsilastirma 
 
     istatistik = {
         "karsilastirma": karsilastirma,
@@ -89,7 +89,7 @@ def selection_sort_istatistikli(liste):
     bit = time.perf_counter()
     sure_ms = (bit - bas) * 1000
 
-    adim = karsilastirma + swap
+    adim = karsilastirma 
 
     istatistik = {
         "karsilastirma": karsilastirma,

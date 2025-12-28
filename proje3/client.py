@@ -1,84 +1,63 @@
-import json
 import zmq
-
-
-def print_response(resp):
-    status = resp.get("status")
-    message = resp.get("message", "")
-    print(f"\n[Durum] {status}")
-    print(f"[Mesaj] {message}")
-
-    if "book" in resp:
-        book = resp["book"]
-        print(
-            f"Kitap: ID={book['id']}, {book['title']} "
-            f"({book['author']}, {book['year']}), "
-            f"Müsait: {'Evet' if book['available'] else 'Hayır'} "
-        )
-
-    if "results" in resp:
-        print("\n[Arama Sonuçları]")
-        for b in resp["results"]:
-            print(
-                f"- ID={b['id']}, {b['title']} ({b['author']}), "
-                f"Müsait: {'Evet' if b['available'] else 'Hayır'}"
-            )
-
 
 def main():
     context = zmq.Context()
     socket = context.socket(zmq.REQ)
     socket.connect("tcp://localhost:5555")
 
-    print("İstemci başlatıldı. (ZeroMQ REQ)")
+    print(" Gelişmiş Kütüphane Sistemine Hoşgeldiniz!")
 
     while True:
-        print("\n--- KÜTÜPHANE MENÜ ---")
-        print("1) Kitap ara")
-        print("2) Kitap ekle")
-        print("3) Kitap ödünç al")
-        print("4) Kitap iade et")
-        print("5) Çıkış")
+        print("\n---  İŞLEM MENÜSÜ ---")
+        print("1. Kitap Ekle")
+        print("2. Kitap Ara")
+        print("3. Kitap Ödünç Al (İsimle)")
+        print("4. Kitap Teslim Et / İade (İsimle)")
+        print("5. Çıkış")
+        secim = input("Seçiminiz (1-5): ")
 
-        secim = input("Seçiminiz: ").strip()
+        istek_paketi = {}
 
         if secim == "1":
-            query = input("Aranacak kelime: ")
-            req = {"action": "search", "query": query}
+            ad = input("Kitap Adı: ")
+            yazar = input("Yazar: ")
+            istek_paketi = {"komut": "ekle", "kitap_adi": ad, "yazar": yazar}
 
         elif secim == "2":
-            title = input("Başlık: ")
-            author = input("Yazar: ")
-            year = int(input("Yıl: "))
-            req = {
-                "action": "add",
-                "book": {"title": title, "author": author, "year": year},
-            }
+            ad = input("Aranacak Kitap Adı: ")
+            istek_paketi = {"komut": "ara", "kitap_adi": ad}
 
         elif secim == "3":
-            book_id = int(input("Ödünç alınacak kitap ID: "))
-            user = input("Kullanıcı adı: ")
-            req = {"action": "borrow", "id": book_id, "user": user}
+            # Artık ID yerine isim soruyoruz
+            ad = input("Ödünç Almak İstediğiniz Kitabın Tam Adı: ")
+            istek_paketi = {"komut": "odunc_al", "kitap_adi": ad}
 
         elif secim == "4":
-            book_id = int(input("İade edilecek kitap ID: "))
-            req = {"action": "return", "id": book_id}
+            
+            ad = input("İade Edeceğiniz Kitabın Adı: ")
+            istek_paketi = {"komut": "teslim_et", "kitap_adi": ad}
 
         elif secim == "5":
-            print("İstemci kapatılıyor...")
             break
-
         else:
-            print("Geçersiz seçim!")
+            print("Geçersiz seçim.")
             continue
 
-        socket.send_string(json.dumps(req, ensure_ascii=False))
-        response = socket.recv_string()
-        print_response(json.loads(response))
-
-    socket.close()
-    context.term()
-
+       
+        print("⏳ İşlem yapılıyor...")
+        socket.send_json(istek_paketi)
+        sunucu_cevabi = socket.recv_json()
+        
+        # Cevabı Ekrana Bas
+        if sunucu_cevabi["durum"] == "basarili":
+            print(f"✅ {sunucu_cevabi.get('mesaj', 'İşlem Başarılı')}")
+            
+            # Eğer arama işlemiyse detayları dök
+            if secim == "2" and "veriler" in sunucu_cevabi:
+                for k in sunucu_cevabi["veriler"]:
+                    print(f"    {k['ad']} - {k['yazar']} [Durum: {k['durum']}]")
+        else:
+            print(f" HATA: {sunucu_cevabi.get('mesaj')}")
 
 if __name__ == "__main__":
     main()

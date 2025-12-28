@@ -56,23 +56,19 @@ def kume_islemleri_ve_sure_hesapla(kume1, kume2):
     return islemler
 
 
-# ------------------ ÇIKTIYI ELLE FORMATLAYAN KISIM ------------------ #
+
 
 def liste_yatay(liste):
-    """[1, 2, 3] gibi yatay liste string'i döndürür."""
+    """stringe döndürme"""
     return "[" + ", ".join(str(x) for x in liste) + "]"
 
 
 def ozel_json_yaz(kume1, kume2, islemler, cikti_dosya_adi: str):
-    """
-    JSON'u manuel formatlar:
-    - kume1, kume2 ve tüm 'sonuc' alanları yatay liste
-    - bloklar güzel girintili
-    """
+ 
     kume1_str = liste_yatay(sorted(kume1))
     kume2_str = liste_yatay(sorted(kume2))
 
-    # işlemleri sabit bir sırayla yazalım
+    
     sirali_anahtarlar = [
         "birlesim",
         "kesisim",

@@ -1,0 +1,27 @@
+SIRALAMA ALGORITMALARI RAPORU
+========================================
+
+Girdi liste: [1, 5, 2, 4, 8]
+
+1) BUBBLE SORT SONUC VE ISTATISTIKLERI
+----------------------------------------
+Sıralı liste       : [1, 2, 4, 5, 8]
+Karşılaştırma sayısı: 10
+Swap (yer değiştirme): 2
+Toplam adım        : 12
+Süre (ms)          : 0.019708
+
+2) SELECTION SORT SONUC VE ISTATISTIKLERI
+----------------------------------------
+Sıralı liste       : [1, 2, 4, 5, 8]
+Karşılaştırma sayısı: 10
+Swap (yer değiştirme): 2
+Toplam adım        : 12
+Süre (ms)          : 0.007667
+
+3) KARSILASTIRMA
+----------------------------------------
+Adım sayıları bakımından iki algoritma eşit.
+Süre bakımından daha hızlı olan       : SELECTION SORT (0.007667 ms < 0.019708 ms)
+
+Not: Süreler, çalıştırılan bilgisayarın hızına göre değişebilir.

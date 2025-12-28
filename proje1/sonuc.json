@@ -1,0 +1,22 @@
+{
+    "kume1": [1, 2, 3, 4, 5, 6],
+    "kume2": [4, 5, 6, 7, 8, 9],
+    "islemler": {
+        "birlesim": {
+            "sonuc": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+            "sure_milisaniye": 0.010625
+        },
+        "kesisim": {
+            "sonuc": [4, 5, 6],
+            "sure_milisaniye": 0.00275
+        },
+        "fark_kume1_eksi_kume2": {
+            "sonuc": [1, 2, 3],
+            "sure_milisaniye": 0.00425
+        },
+        "fark_kume2_eksi_kume1": {
+            "sonuc": [7, 8, 9],
+            "sure_milisaniye": 0.001167
+        }
+    }
+}

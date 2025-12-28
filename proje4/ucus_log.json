@@ -1,0 +1,2294 @@
+[
+  {
+    "konumBilgileri": [
+      {
+        "takim_numarasi": 1,
+        "iha_enlem": 40.2026329,
+        "iha_boylam": 25.8826466,
+        "iha_irtifa": 1.772,
+        "iha_dikilme": 8.0,
+        "iha_yonelme": -4.0,
+        "iha_yatis": 1.0,
+        "iha_hizi": 0.0,
+        "zaman_farki": 117
+      },
+      {
+        "takim_numarasi": 2,
+        "iha_enlem": 40.2026634,
+        "iha_boylam": 25.8797932,
+        "iha_irtifa": 121.781,
+        "iha_dikilme": 2.57351875,
+        "iha_yonelme": 56.0,
+        "iha_yatis": -25.8883629,
+        "iha_hizi": 19.4718933,
+        "zaman_farki": 57
+      },
+      {
+        "takim_numarasi": 3,
+        "iha_enlem": 40.2026825,
+        "iha_boylam": 25.8826561,
+        "iha_irtifa": 1.088,
+        "iha_dikilme": -7.792923,
+        "iha_yonelme": 356.0,
+        "iha_yatis": 23.18983,
+        "iha_hizi": 0.319347829,
+        "zaman_farki": 932
+      },
+      {
+        "takim_numarasi": 4,
+        "iha_enlem": 40.20227,
+        "iha_boylam": 25.8825054,
+        "iha_irtifa": -0.305,
+        "iha_dikilme": -1.13738942,
+        "iha_yonelme": 288.0,
+        "iha_yatis": -6.86800861,
+        "iha_hizi": 0.216983363,
+        "zaman_farki": -1054
+      },
+      {
+        "takim_numarasi": 5,
+        "iha_enlem": 40.20756,
+        "iha_boylam": 25.8807487,
+        "iha_irtifa": 87.0,
+        "iha_dikilme": 5.0,
+        "iha_yonelme": 293.0,
+        "iha_yatis": -7.0,
+        "iha_hizi": 22.0,
+        "zaman_farki": 1506
+      },
+      {
+        "takim_numarasi": 7,
+        "iha_enlem": 40.2024231,
+        "iha_boylam": 25.880434,
+        "iha_irtifa": 80.299,
+        "iha_dikilme": -4.8469367,
+        "iha_yonelme": 235.92,
+        "iha_yatis": -4.11654329,
+        "iha_hizi": 17.88,
+        "zaman_farki": 454
+      },
+      {
+        "takim_numarasi": 8,
+        "iha_enlem": 40.2024651,
+        "iha_boylam": 25.882576,
+        "iha_irtifa": 0.896,
+        "iha_dikilme": -3.0,
+        "iha_yonelme": 196.0,
+        "iha_yatis": 14.0,
+        "iha_hizi": 0.01,
+        "zaman_farki": -2276
+      },
+      {
+        "takim_numarasi": 10,
+        "iha_enlem": 40.2022629,
+        "iha_boylam": 25.8828011,
+        "iha_irtifa": 0.711,
+        "iha_dikilme": 5.02829456,
+        "iha_yonelme": 297.525,
+        "iha_yatis": 3.69286823,
+        "iha_hizi": 0.06271925,
+        "zaman_farki": 661
+      },
+      {
+        "takim_numarasi": 11,
+        "iha_enlem": 40.20258,
+        "iha_boylam": 25.8826313,
+        "iha_irtifa": -0.05,
+        "iha_dikilme": 1.169629,
+        "iha_yonelme": 3.207279,
+        "iha_yatis": -2.46737719,
+        "iha_hizi": 0.0231851265,
+        "zaman_farki": 582
+      },
+      {
+        "takim_numarasi": 14,
+        "iha_enlem": 40.2007751,
+        "iha_boylam": 25.8810349,
+        "iha_irtifa": 118.729,
+        "iha_dikilme": -5.860889,
+        "iha_yonelme": 57.3821831,
+        "iha_yatis": -24.52416,
+        "iha_hizi": 18.2668018,
+        "zaman_farki": 412
+      },
+      {
+        "takim_numarasi": 16,
+        "iha_enlem": 40.2023773,
+        "iha_boylam": 25.8825417,
+        "iha_irtifa": 0.39,
+        "iha_dikilme": -3.38,
+        "iha_yonelme": 349.0,
+        "iha_yatis": 18.39,
+        "iha_hizi": 0.0351066738,
+        "zaman_farki": 482
+      },
+      {
+        "takim_numarasi": 17,
+        "iha_enlem": 40.2025871,
+        "iha_boylam": 25.8826447,
+        "iha_irtifa": 0.78,
+        "iha_dikilme": -5.80549,
+        "iha_yonelme": 45.70901,
+        "iha_yatis": -12.2767429,
+        "iha_hizi": 0.08581971,
+        "zaman_farki": 415
+      },
+      {
+        "takim_numarasi": 18,
+        "iha_enlem": 40.20287,
+        "iha_boylam": 25.8826752,
+        "iha_irtifa": 1.993,
+        "iha_dikilme": 9.003497,
+        "iha_yonelme": 345.0,
+        "iha_yatis": 3.15682387,
+        "iha_hizi": 12.3804874,
+        "zaman_farki": 587
+      },
+      {
+        "takim_numarasi": 19,
+        "iha_enlem": 40.2053261,
+        "iha_boylam": 25.8836327,
+        "iha_irtifa": 49.991,
+        "iha_dikilme": 6.920949,
+        "iha_yonelme": 10.6941595,
+        "iha_yatis": 5.087463,
+        "iha_hizi": 15.3083458,
+        "zaman_farki": 503
+      },
+      {
+        "takim_numarasi": 23,
+        "iha_enlem": 40.20249,
+        "iha_boylam": 25.8829212,
+        "iha_irtifa": 0.388,
+        "iha_dikilme": -1.553282,
+        "iha_yonelme": 300.416046,
+        "iha_yatis": -8.800376,
+        "iha_hizi": 0.06077641,
+        "zaman_farki": 26752049
+      },
+      {
+        "takim_numarasi": 25,
+        "iha_enlem": 40.204,
+        "iha_boylam": 25.87922,
+        "iha_irtifa": 98.996,
+        "iha_dikilme": 5.22782469,
+        "iha_yonelme": 13.0774069,
+        "iha_yatis": 14.8672352,
+        "iha_hizi": 16.38,
+        "zaman_farki": 1087
+      },
+      {
+        "takim_numarasi": 38,
+        "iha_enlem": 40.2036552,
+        "iha_boylam": 25.8822937,
+        "iha_irtifa": 118.0,
+        "iha_dikilme": 1.0,
+        "iha_yonelme": 160.0,
+        "iha_yatis": 26.0,
+        "iha_hizi": 22.0,
+        "zaman_farki": 644
+      }
+    ]
+  },
+  {
+    "konumBilgileri": [
+      {
+        "takim_numarasi": 1,
+        "iha_enlem": 40.2026329,
+        "iha_boylam": 25.8826466,
+        "iha_irtifa": 1.812,
+        "iha_dikilme": 7.0,
+        "iha_yonelme": -3.0,
+        "iha_yatis": 4.0,
+        "iha_hizi": 0.0,
+        "zaman_farki": 534
+      },
+      {
+        "takim_numarasi": 2,
+        "iha_enlem": 40.2027626,
+        "iha_boylam": 25.8799629,
+        "iha_irtifa": 123.642,
+        "iha_dikilme": 2.89620137,
+        "iha_yonelme": 38.0,
+        "iha_yatis": -18.58429,
+        "iha_hizi": 17.37118,
+        "zaman_farki": 227
+      },
+      {
+        "takim_numarasi": 3,
+        "iha_enlem": 40.2026825,
+        "iha_boylam": 25.8826542,
+        "iha_irtifa": 1.759,
+        "iha_dikilme": 2.81985378,
+        "iha_yonelme": 8.0,
+        "iha_yatis": 1.79516792,
+        "iha_hizi": 0.222599462,
+        "zaman_farki": 138
+      },
+      {
+        "takim_numarasi": 4,
+        "iha_enlem": 40.20227,
+        "iha_boylam": 25.8825016,
+        "iha_irtifa": -0.394,
+        "iha_dikilme": -0.446765453,
+        "iha_yonelme": 289.0,
+        "iha_yatis": -6.68797541,
+        "iha_hizi": 0.30447942,
+        "zaman_farki": -870
+      },
+      {
+        "takim_numarasi": 5,
+        "iha_enlem": 40.2076035,
+        "iha_boylam": 25.8804874,
+        "iha_irtifa": 90.0,
+        "iha_dikilme": 12.0,
+        "iha_yonelme": 274.0,
+        "iha_yatis": -37.0,
+        "iha_hizi": 23.0,
+        "zaman_farki": 1474
+      },
+      {
+        "takim_numarasi": 7,
+        "iha_enlem": 40.2022476,
+        "iha_boylam": 25.8801689,
+        "iha_irtifa": 80.373,
+        "iha_dikilme": -4.94571447,
+        "iha_yonelme": 237.45,
+        "iha_yatis": -3.31444144,
+        "iha_hizi": 17.9,
+        "zaman_farki": -10
+      },
+      {
+        "takim_numarasi": 8,
+        "iha_enlem": 40.2024651,
+        "iha_boylam": 25.882576,
+        "iha_irtifa": 0.869,
+        "iha_dikilme": -3.0,
+        "iha_yonelme": 196.0,
+        "iha_yatis": 14.0,
+        "iha_hizi": 0.02236068,
+        "zaman_farki": -2164
+      },
+      {
+        "takim_numarasi": 10,
+        "iha_enlem": 40.2022629,
+        "iha_boylam": 25.882803,
+        "iha_irtifa": 0.657,
+        "iha_dikilme": 5.587014,
+        "iha_yonelme": 298.430817,
+        "iha_yatis": 4.65259171,
+        "iha_hizi": 0.0527224,
+        "zaman_farki": 608
+      },
+      {
+        "takim_numarasi": 11,
+        "iha_enlem": 40.20258,
+        "iha_boylam": 25.8826313,
+        "iha_irtifa": -0.027,
+        "iha_dikilme": 1.18929625,
+        "iha_yonelme": 3.20817018,
+        "iha_yatis": -2.51062131,
+        "iha_hizi": 0.0254351739,
+        "zaman_farki": 779
+      },
+      {
+        "takim_numarasi": 14,
+        "iha_enlem": 40.2008972,
+        "iha_boylam": 25.8811817,
+        "iha_irtifa": 118.806,
+        "iha_dikilme": -3.26431417,
+        "iha_yonelme": 36.60667,
+        "iha_yatis": -25.6019154,
+        "iha_hizi": 18.54447,
+        "zaman_farki": 347
+      },
+      {
+        "takim_numarasi": 16,
+        "iha_enlem": 40.2023773,
+        "iha_boylam": 25.8825417,
+        "iha_irtifa": 0.357,
+        "iha_dikilme": -3.37,
+        "iha_yonelme": 349.0,
+        "iha_yatis": 18.41,
+        "iha_hizi": 0.0287265629,
+        "zaman_farki": 939
+      },
+      {
+        "takim_numarasi": 17,
+        "iha_enlem": 40.2025871,
+        "iha_boylam": 25.8826447,
+        "iha_irtifa": 0.62,
+        "iha_dikilme": -5.70238638,
+        "iha_yonelme": 45.71564,
+        "iha_yatis": -12.2018585,
+        "iha_hizi": 0.07097362,
+        "zaman_farki": 614
+      },
+      {
+        "takim_numarasi": 18,
+        "iha_enlem": 40.2031479,
+        "iha_boylam": 25.8828011,
+        "iha_irtifa": 14.376,
+        "iha_dikilme": 23.3559685,
+        "iha_yonelme": 21.0,
+        "iha_yatis": 4.303717,
+        "iha_hizi": 16.0872154,
+        "zaman_farki": -89
+      },
+      {
+        "takim_numarasi": 19,
+        "iha_enlem": 40.2053261,
+        "iha_boylam": 25.8836327,
+        "iha_irtifa": 49.991,
+        "iha_dikilme": 5.330773,
+        "iha_yonelme": 12.5631161,
+        "iha_yatis": 1.374226,
+        "iha_hizi": 15.0259361,
+        "zaman_farki": 717
+      },
+      {
+        "takim_numarasi": 23,
+        "iha_enlem": 40.20249,
+        "iha_boylam": 25.8829212,
+        "iha_irtifa": 0.388,
+        "iha_dikilme": -1.553282,
+        "iha_yonelme": 300.416046,
+        "iha_yatis": -8.800376,
+        "iha_hizi": 0.06077641,
+        "zaman_farki": 26753246
+      },
+      {
+        "takim_numarasi": 25,
+        "iha_enlem": 40.2042122,
+        "iha_boylam": 25.879467,
+        "iha_irtifa": 101.467,
+        "iha_dikilme": 13.3247442,
+        "iha_yonelme": 39.8890648,
+        "iha_yatis": 0.707696259,
+        "iha_hizi": 15.31,
+        "zaman_farki": 1284
+      },
+      {
+        "takim_numarasi": 38,
+        "iha_enlem": 40.2034531,
+        "iha_boylam": 25.8823185,
+        "iha_irtifa": 118.0,
+        "iha_dikilme": 3.0,
+        "iha_yonelme": 176.0,
+        "iha_yatis": 27.0,
+        "iha_hizi": 22.0,
+        "zaman_farki": 713
+      }
+    ]
+  },
+  {
+    "konumBilgileri": [
+      {
+        "takim_numarasi": 1,
+        "iha_enlem": 40.20263,
+        "iha_boylam": 25.8826466,
+        "iha_irtifa": 1.868,
+        "iha_dikilme": 6.0,
+        "iha_yonelme": -10.0,
+        "iha_yatis": 0.0,
+        "iha_hizi": 0.0,
+        "zaman_farki": 190
+      },
+      {
+        "takim_numarasi": 2,
+        "iha_enlem": 40.2029037,
+        "iha_boylam": 25.88012,
+        "iha_irtifa": 124.409,
+        "iha_dikilme": -2.010505,
+        "iha_yonelme": 28.0,
+        "iha_yatis": -21.3349628,
+        "iha_hizi": 16.17163,
+        "zaman_farki": 394
+      },
+      {
+        "takim_numarasi": 3,
+        "iha_enlem": 40.2026825,
+        "iha_boylam": 25.8826561,
+        "iha_irtifa": 1.67,
+        "iha_dikilme": 2.562839,
+        "iha_yonelme": 1.0,
+        "iha_yatis": 0.6472407,
+        "iha_hizi": 0.178787053,
+        "zaman_farki": 316
+      },
+      {
+        "takim_numarasi": 4,
+        "iha_enlem": 40.2022667,
+        "iha_boylam": 25.8825016,
+        "iha_irtifa": -0.133,
+        "iha_dikilme": -0.6490763,
+        "iha_yonelme": 289.0,
+        "iha_yatis": -4.032428,
+        "iha_hizi": 0.230125144,
+        "zaman_farki": -680
+      },
+      {
+        "takim_numarasi": 5,
+        "iha_enlem": 40.20752,
+        "iha_boylam": 25.8800945,
+        "iha_irtifa": 99.0,
+        "iha_dikilme": 19.0,
+        "iha_yonelme": 240.0,
+        "iha_yatis": -50.0,
+        "iha_hizi": 23.0,
+        "zaman_farki": 1449
+      },
+      {
+        "takim_numarasi": 7,
+        "iha_enlem": 40.2021446,
+        "iha_boylam": 25.8800087,
+        "iha_irtifa": 80.473,
+        "iha_dikilme": -5.757651,
+        "iha_yonelme": 246.31,
+        "iha_yatis": 45.17774,
+        "iha_hizi": 17.9,
+        "zaman_farki": 186
+      },
+      {
+        "takim_numarasi": 8,
+        "iha_enlem": 40.2024651,
+        "iha_boylam": 25.8825779,
+        "iha_irtifa": 0.837,
+        "iha_dikilme": -3.0,
+        "iha_yonelme": 196.0,
+        "iha_yatis": 14.0,
+        "iha_hizi": 0.02828427,
+        "zaman_farki": -1468
+      },
+      {
+        "takim_numarasi": 10,
+        "iha_enlem": 40.2022629,
+        "iha_boylam": 25.882803,
+        "iha_irtifa": 0.59,
+        "iha_dikilme": 5.59274054,
+        "iha_yonelme": 303.712738,
+        "iha_yatis": 5.736075,
+        "iha_hizi": 0.0165682733,
+        "zaman_farki": 502
+      },
+      {
+        "takim_numarasi": 11,
+        "iha_enlem": 40.20258,
+        "iha_boylam": 25.8826313,
+        "iha_irtifa": -0.024,
+        "iha_dikilme": 1.29969168,
+        "iha_yonelme": 3.30877924,
+        "iha_yatis": -2.61326623,
+        "iha_hizi": 0.0136824427,
+        "zaman_farki": -25
+      },
+      {
+        "takim_numarasi": 14,
+        "iha_enlem": 40.20113,
+        "iha_boylam": 25.8812923,
+        "iha_irtifa": 119.635,
+        "iha_dikilme": -4.420456,
+        "iha_yonelme": 16.3949966,
+        "iha_yatis": -6.016865,
+        "iha_hizi": 18.36417,
+        "zaman_farki": 305
+      },
+      {
+        "takim_numarasi": 16,
+        "iha_enlem": 40.2023773,
+        "iha_boylam": 25.8825417,
+        "iha_irtifa": 0.358,
+        "iha_dikilme": -3.36,
+        "iha_yonelme": 349.0,
+        "iha_yatis": 18.42,
+        "iha_hizi": 0.0224838071,
+        "zaman_farki": 995
+      },
+      {
+        "takim_numarasi": 17,
+        "iha_enlem": 40.20259,
+        "iha_boylam": 25.8826447,
+        "iha_irtifa": 0.89,
+        "iha_dikilme": -5.83902,
+        "iha_yonelme": 45.7231178,
+        "iha_yatis": -12.3376427,
+        "iha_hizi": 0.0899406,
+        "zaman_farki": 305
+      },
+      {
+        "takim_numarasi": 18,
+        "iha_enlem": 40.2032661,
+        "iha_boylam": 25.8828449,
+        "iha_irtifa": 24.279,
+        "iha_dikilme": 30.6275043,
+        "iha_yonelme": 13.0,
+        "iha_yatis": -9.640034,
+        "iha_hizi": 14.9630451,
+        "zaman_farki": 34
+      },
+      {
+        "takim_numarasi": 19,
+        "iha_enlem": 40.2056923,
+        "iha_boylam": 25.8837471,
+        "iha_irtifa": 56.167,
+        "iha_dikilme": 7.20912743,
+        "iha_yonelme": 12.7993345,
+        "iha_yatis": 2.48536515,
+        "iha_hizi": 15.6294231,
+        "zaman_farki": -56
+      },
+      {
+        "takim_numarasi": 23,
+        "iha_enlem": 40.20249,
+        "iha_boylam": 25.8829212,
+        "iha_irtifa": 0.388,
+        "iha_dikilme": -1.553282,
+        "iha_yonelme": 300.416046,
+        "iha_yatis": -8.800376,
+        "iha_hizi": 0.06077641,
+        "zaman_farki": 26754442
+      },
+      {
+        "takim_numarasi": 25,
+        "iha_enlem": 40.2043724,
+        "iha_boylam": 25.8797932,
+        "iha_irtifa": 110.066,
+        "iha_dikilme": 12.7159815,
+        "iha_yonelme": 44.82383,
+        "iha_yatis": 3.712078,
+        "iha_hizi": 12.74,
+        "zaman_farki": 480
+      },
+      {
+        "takim_numarasi": 38,
+        "iha_enlem": 40.20316,
+        "iha_boylam": 25.8822517,
+        "iha_irtifa": 118.0,
+        "iha_dikilme": 2.0,
+        "iha_yonelme": 193.0,
+        "iha_yatis": 30.0,
+        "iha_hizi": 21.0,
+        "zaman_farki": 705
+      }
+    ]
+  },
+  {
+    "konumBilgileri": [
+      {
+        "takim_numarasi": 1,
+        "iha_enlem": 40.20263,
+        "iha_boylam": 25.8826466,
+        "iha_irtifa": 1.854,
+        "iha_dikilme": 9.0,
+        "iha_yonelme": -9.0,
+        "iha_yatis": 2.0,
+        "iha_hizi": 0.0,
+        "zaman_farki": -68
+      },
+      {
+        "takim_numarasi": 2,
+        "iha_enlem": 40.2031021,
+        "iha_boylam": 25.8802319,
+        "iha_irtifa": 122.428,
+        "iha_dikilme": -1.10400212,
+        "iha_yonelme": 12.0,
+        "iha_yatis": -20.573885,
+        "iha_hizi": 15.8643827,
+        "zaman_farki": 51
+      },
+      {
+        "takim_numarasi": 3,
+        "iha_enlem": 40.2026825,
+        "iha_boylam": 25.8826542,
+        "iha_irtifa": 1.783,
+        "iha_dikilme": 3.77323985,
+        "iha_yonelme": 10.0,
+        "iha_yatis": 1.5719645,
+        "iha_hizi": 0.405730784,
+        "zaman_farki": 501
+      },
+      {
+        "takim_numarasi": 4,
+        "iha_enlem": 40.2022667,
+        "iha_boylam": 25.8825016,
+        "iha_irtifa": -0.245,
+        "iha_dikilme": 2.128559,
+        "iha_yonelme": 283.0,
+        "iha_yatis": -4.564533,
+        "iha_hizi": 0.243980274,
+        "zaman_farki": -489
+      },
+      {
+        "takim_numarasi": 5,
+        "iha_enlem": 40.20735,
+        "iha_boylam": 25.87992,
+        "iha_irtifa": 104.0,
+        "iha_dikilme": 16.0,
+        "iha_yonelme": 207.0,
+        "iha_yatis": -43.0,
+        "iha_hizi": 22.0,
+        "zaman_farki": 1434
+      },
+      {
+        "takim_numarasi": 7,
+        "iha_enlem": 40.20211,
+        "iha_boylam": 25.87981,
+        "iha_irtifa": 80.601,
+        "iha_dikilme": -4.88390255,
+        "iha_yonelme": 280.04,
+        "iha_yatis": 42.4288979,
+        "iha_hizi": 17.71,
+        "zaman_farki": 727
+      },
+      {
+        "takim_numarasi": 8,
+        "iha_enlem": 40.2024651,
+        "iha_boylam": 25.8825779,
+        "iha_irtifa": 0.78,
+        "iha_dikilme": -3.0,
+        "iha_yonelme": 196.0,
+        "iha_yatis": 14.0,
+        "iha_hizi": 0.02,
+        "zaman_farki": -2428
+      },
+      {
+        "takim_numarasi": 10,
+        "iha_enlem": 40.2022629,
+        "iha_boylam": 25.8828049,
+        "iha_irtifa": 0.591,
+        "iha_dikilme": 6.517902,
+        "iha_yonelme": 304.5777,
+        "iha_yatis": 6.675033,
+        "iha_hizi": 0.0370159559,
+        "zaman_farki": 651
+      },
+      {
+        "takim_numarasi": 11,
+        "iha_enlem": 40.20258,
+        "iha_boylam": 25.8826313,
+        "iha_irtifa": 0.01,
+        "iha_dikilme": 1.2518,
+        "iha_yonelme": 3.2560513,
+        "iha_yatis": -2.81800437,
+        "iha_hizi": 0.0197172016,
+        "zaman_farki": 177
+      },
+      {
+        "takim_numarasi": 14,
+        "iha_enlem": 40.2012939,
+        "iha_boylam": 25.88134,
+        "iha_irtifa": 119.05,
+        "iha_dikilme": -4.9189,
+        "iha_yonelme": 11.5176821,
+        "iha_yatis": -1.66049,
+        "iha_hizi": 18.4303474,
+        "zaman_farki": 247
+      },
+      {
+        "takim_numarasi": 16,
+        "iha_enlem": 40.2023773,
+        "iha_boylam": 25.8825436,
+        "iha_irtifa": 0.369,
+        "iha_dikilme": -3.36,
+        "iha_yonelme": 349.0,
+        "iha_yatis": 18.43,
+        "iha_hizi": 0.00100198074,
+        "zaman_farki": 1496
+      },
+      {
+        "takim_numarasi": 17,
+        "iha_enlem": 40.20259,
+        "iha_boylam": 25.8826447,
+        "iha_irtifa": 0.68,
+        "iha_dikilme": -5.80312872,
+        "iha_yonelme": 45.6631927,
+        "iha_yatis": -12.2237568,
+        "iha_hizi": 0.0899406,
+        "zaman_farki": 509
+      },
+      {
+        "takim_numarasi": 18,
+        "iha_enlem": 40.2033958,
+        "iha_boylam": 25.8828545,
+        "iha_irtifa": 32.63,
+        "iha_dikilme": 30.504158,
+        "iha_yonelme": 0.0,
+        "iha_yatis": -17.7690239,
+        "iha_hizi": 14.2608461,
+        "zaman_farki": 291
+      },
+      {
+        "takim_numarasi": 19,
+        "iha_enlem": 40.2058334,
+        "iha_boylam": 25.8837948,
+        "iha_irtifa": 58.476,
+        "iha_dikilme": 9.958116,
+        "iha_yonelme": 10.3160419,
+        "iha_yatis": 0.637826562,
+        "iha_hizi": 16.0310612,
+        "zaman_farki": 161
+      },
+      {
+        "takim_numarasi": 23,
+        "iha_enlem": 40.20249,
+        "iha_boylam": 25.8829212,
+        "iha_irtifa": 0.388,
+        "iha_dikilme": -1.553282,
+        "iha_yonelme": 300.416046,
+        "iha_yatis": -8.800376,
+        "iha_hizi": 0.06077641,
+        "zaman_farki": 26755644
+      },
+      {
+        "takim_numarasi": 25,
+        "iha_enlem": 40.2043953,
+        "iha_boylam": 25.879858,
+        "iha_irtifa": 111.424,
+        "iha_dikilme": 8.054011,
+        "iha_yonelme": 52.77842,
+        "iha_yatis": 6.6476016,
+        "iha_hizi": 12.96,
+        "zaman_farki": 683
+      },
+      {
+        "takim_numarasi": 38,
+        "iha_enlem": 40.20298,
+        "iha_boylam": 25.88214,
+        "iha_irtifa": 118.0,
+        "iha_dikilme": 1.0,
+        "iha_yonelme": 216.0,
+        "iha_yatis": 32.0,
+        "iha_hizi": 20.0,
+        "zaman_farki": 522
+      }
+    ]
+  },
+  {
+    "konumBilgileri": [
+      {
+        "takim_numarasi": 1,
+        "iha_enlem": 40.20263,
+        "iha_boylam": 25.8826466,
+        "iha_irtifa": 1.816,
+        "iha_dikilme": 11.0,
+        "iha_yonelme": -7.0,
+        "iha_yatis": 1.0,
+        "iha_hizi": 0.0,
+        "zaman_farki": -88
+      },
+      {
+        "takim_numarasi": 2,
+        "iha_enlem": 40.20325,
+        "iha_boylam": 25.8802567,
+        "iha_irtifa": 119.968,
+        "iha_dikilme": 1.0722537,
+        "iha_yonelme": 358.0,
+        "iha_yatis": -20.9404182,
+        "iha_hizi": 16.3730373,
+        "zaman_farki": 223
+      },
+      {
+        "takim_numarasi": 3,
+        "iha_enlem": 40.2026825,
+        "iha_boylam": 25.8826542,
+        "iha_irtifa": 1.786,
+        "iha_dikilme": 10.2326212,
+        "iha_yonelme": 18.0,
+        "iha_yatis": -0.838836551,
+        "iha_hizi": 1.98550844,
+        "zaman_farki": 732
+      },
+      {
+        "takim_numarasi": 4,
+        "iha_enlem": 40.2022629,
+        "iha_boylam": 25.8825,
+        "iha_irtifa": -0.373,
+        "iha_dikilme": 0.750027359,
+        "iha_yonelme": 301.0,
+        "iha_yatis": -5.180988,
+        "iha_hizi": 0.4209097,
+        "zaman_farki": -298
+      },
+      {
+        "takim_numarasi": 5,
+        "iha_enlem": 40.20716,
+        "iha_boylam": 25.8798237,
+        "iha_irtifa": 108.0,
+        "iha_dikilme": 2.0,
+        "iha_yonelme": 187.0,
+        "iha_yatis": -29.0,
+        "iha_hizi": 21.0,
+        "zaman_farki": 1427
+      },
+      {
+        "takim_numarasi": 7,
+        "iha_enlem": 40.2021942,
+        "iha_boylam": 25.8795738,
+        "iha_irtifa": 80.624,
+        "iha_dikilme": -5.083547,
+        "iha_yonelme": 315.11,
+        "iha_yatis": 37.8564568,
+        "iha_hizi": 16.95,
+        "zaman_farki": 268
+      },
+      {
+        "takim_numarasi": 8,
+        "iha_enlem": 40.2024651,
+        "iha_boylam": 25.8825779,
+        "iha_irtifa": 0.764,
+        "iha_dikilme": -3.0,
+        "iha_yonelme": 196.0,
+        "iha_yatis": 14.0,
+        "iha_hizi": 0.02,
+        "zaman_farki": -2285
+      },
+      {
+        "takim_numarasi": 10,
+        "iha_enlem": 40.2022629,
+        "iha_boylam": 25.8828049,
+        "iha_irtifa": 0.598,
+        "iha_dikilme": 3.61983466,
+        "iha_yonelme": 303.9877,
+        "iha_yatis": 5.92883,
+        "iha_hizi": 0.181001171,
+        "zaman_farki": 683
+      },
+      {
+        "takim_numarasi": 11,
+        "iha_enlem": 40.20258,
+        "iha_boylam": 25.8826313,
+        "iha_irtifa": 0.042,
+        "iha_dikilme": 1.25766039,
+        "iha_yonelme": 3.28768086,
+        "iha_yatis": -2.73966646,
+        "iha_hizi": 0.0167589337,
+        "zaman_farki": 377
+      },
+      {
+        "takim_numarasi": 14,
+        "iha_enlem": 40.20154,
+        "iha_boylam": 25.8813953,
+        "iha_irtifa": 118.732,
+        "iha_dikilme": -4.07670164,
+        "iha_yonelme": 12.7324095,
+        "iha_yatis": 2.589123,
+        "iha_hizi": 18.812994,
+        "zaman_farki": 447
+      },
+      {
+        "takim_numarasi": 16,
+        "iha_enlem": 40.2023773,
+        "iha_boylam": 25.8825417,
+        "iha_irtifa": 0.364,
+        "iha_dikilme": -3.36,
+        "iha_yonelme": 349.0,
+        "iha_yatis": 18.39,
+        "iha_hizi": 0.0261538252,
+        "zaman_farki": 1357
+      },
+      {
+        "takim_numarasi": 17,
+        "iha_enlem": 40.20259,
+        "iha_boylam": 25.8826447,
+        "iha_irtifa": 0.659,
+        "iha_dikilme": -5.80312872,
+        "iha_yonelme": 45.6631927,
+        "iha_yatis": -12.2237568,
+        "iha_hizi": 0.09399191,
+        "zaman_farki": 207
+      },
+      {
+        "takim_numarasi": 18,
+        "iha_enlem": 40.20354,
+        "iha_boylam": 25.882843,
+        "iha_irtifa": 39.418,
+        "iha_dikilme": 22.2719212,
+        "iha_yonelme": 359.0,
+        "iha_yatis": -3.473451,
+        "iha_hizi": 16.64274,
+        "zaman_farki": 420
+      },
+      {
+        "takim_numarasi": 19,
+        "iha_enlem": 40.2059059,
+        "iha_boylam": 25.8838158,
+        "iha_irtifa": 59.966,
+        "iha_dikilme": 9.855619,
+        "iha_yonelme": 12.418829,
+        "iha_yatis": 4.128105,
+        "iha_hizi": 16.3757915,
+        "zaman_farki": 368
+      },
+      {
+        "takim_numarasi": 23,
+        "iha_enlem": 40.20249,
+        "iha_boylam": 25.8829212,
+        "iha_irtifa": 0.388,
+        "iha_dikilme": -1.553282,
+        "iha_yonelme": 300.416046,
+        "iha_yatis": -8.800376,
+        "iha_hizi": 0.06077641,
+        "zaman_farki": 26756844
+      },
+      {
+        "takim_numarasi": 25,
+        "iha_enlem": 40.20445,
+        "iha_boylam": 25.8800049,
+        "iha_irtifa": 112.604,
+        "iha_dikilme": 8.347679,
+        "iha_yonelme": 56.6423645,
+        "iha_yatis": 5.340281,
+        "iha_hizi": 13.85,
+        "zaman_farki": 881
+      },
+      {
+        "takim_numarasi": 38,
+        "iha_enlem": 40.20284,
+        "iha_boylam": 25.8819828,
+        "iha_irtifa": 117.0,
+        "iha_dikilme": 4.0,
+        "iha_yonelme": 233.0,
+        "iha_yatis": 32.0,
+        "iha_hizi": 19.0,
+        "zaman_farki": 840
+      }
+    ]
+  },
+  {
+    "konumBilgileri": [
+      {
+        "takim_numarasi": 1,
+        "iha_enlem": 40.20263,
+        "iha_boylam": 25.8826466,
+        "iha_irtifa": 1.749,
+        "iha_dikilme": 9.0,
+        "iha_yonelme": -7.0,
+        "iha_yatis": 3.0,
+        "iha_hizi": 0.0,
+        "zaman_farki": 325
+      },
+      {
+        "takim_numarasi": 2,
+        "iha_enlem": 40.2034,
+        "iha_boylam": 25.8802261,
+        "iha_irtifa": 118.664,
+        "iha_dikilme": 3.89452982,
+        "iha_yonelme": 338.0,
+        "iha_yatis": -22.00204,
+        "iha_hizi": 16.5328159,
+        "zaman_farki": 387
+      },
+      {
+        "takim_numarasi": 3,
+        "iha_enlem": 40.20269,
+        "iha_boylam": 25.88266,
+        "iha_irtifa": 1.552,
+        "iha_dikilme": 10.4873381,
+        "iha_yonelme": 26.0,
+        "iha_yatis": 9.484772,
+        "iha_hizi": 0.660939336,
+        "zaman_farki": 903
+      },
+      {
+        "takim_numarasi": 4,
+        "iha_enlem": 40.2022629,
+        "iha_boylam": 25.8825016,
+        "iha_irtifa": -0.604,
+        "iha_dikilme": 0.403135628,
+        "iha_yonelme": 286.0,
+        "iha_yatis": -3.349909,
+        "iha_hizi": 0.186332032,
+        "zaman_farki": -1124
+      },
+      {
+        "takim_numarasi": 5,
+        "iha_enlem": 40.20687,
+        "iha_boylam": 25.8797569,
+        "iha_irtifa": 107.0,
+        "iha_dikilme": -2.0,
+        "iha_yonelme": 181.0,
+        "iha_yatis": -12.0,
+        "iha_hizi": 22.0,
+        "zaman_farki": 1390
+      },
+      {
+        "takim_numarasi": 7,
+        "iha_enlem": 40.2023163,
+        "iha_boylam": 25.8794689,
+        "iha_irtifa": 80.4,
+        "iha_dikilme": -7.940947,
+        "iha_yonelme": 337.3,
+        "iha_yatis": 30.34542,
+        "iha_hizi": 16.6,
+        "zaman_farki": 461
+      },
+      {
+        "takim_numarasi": 8,
+        "iha_enlem": 40.2024651,
+        "iha_boylam": 25.8825779,
+        "iha_irtifa": 0.754,
+        "iha_dikilme": -3.0,
+        "iha_yonelme": 196.0,
+        "iha_yatis": 14.0,
+        "iha_hizi": 0.01,
+        "zaman_farki": -2174
+      },
+      {
+        "takim_numarasi": 10,
+        "iha_enlem": 40.2022629,
+        "iha_boylam": 25.8828049,
+        "iha_irtifa": 0.557,
+        "iha_dikilme": 2.797628,
+        "iha_yonelme": 305.904327,
+        "iha_yatis": 5.40731573,
+        "iha_hizi": 0.0277172457,
+        "zaman_farki": 803
+      },
+      {
+        "takim_numarasi": 11,
+        "iha_enlem": 40.20258,
+        "iha_boylam": 25.8826313,
+        "iha_irtifa": 0.015,
+        "iha_dikilme": 1.28586376,
+        "iha_yonelme": 3.29808855,
+        "iha_yatis": -2.88430142,
+        "iha_hizi": 0.0130998241,
+        "zaman_farki": 570
+      },
+      {
+        "takim_numarasi": 14,
+        "iha_enlem": 40.20171,
+        "iha_boylam": 25.88143,
+        "iha_irtifa": 118.963,
+        "iha_dikilme": -4.103221,
+        "iha_yonelme": 14.5799284,
+        "iha_yatis": 6.816045,
+        "iha_hizi": 18.78232,
+        "zaman_farki": 400
+      },
+      {
+        "takim_numarasi": 16,
+        "iha_enlem": 40.2023773,
+        "iha_boylam": 25.8825417,
+        "iha_irtifa": 0.367,
+        "iha_dikilme": -3.38,
+        "iha_yonelme": 349.0,
+        "iha_yatis": 18.39,
+        "iha_hizi": 0.0263364427,
+        "zaman_farki": -130
+      },
+      {
+        "takim_numarasi": 17,
+        "iha_enlem": 40.2025871,
+        "iha_boylam": 25.8826427,
+        "iha_irtifa": 0.729,
+        "iha_dikilme": -5.770194,
+        "iha_yonelme": 45.61928,
+        "iha_yatis": -12.1414642,
+        "iha_hizi": 0.09124166,
+        "zaman_farki": 387
+      },
+      {
+        "takim_numarasi": 18,
+        "iha_enlem": 40.2037048,
+        "iha_boylam": 25.8828335,
+        "iha_irtifa": 45.05,
+        "iha_dikilme": 18.0951385,
+        "iha_yonelme": 1.0,
+        "iha_yatis": -2.402508,
+        "iha_hizi": 18.155941,
+        "zaman_farki": 683
+      },
+      {
+        "takim_numarasi": 19,
+        "iha_enlem": 40.20612,
+        "iha_boylam": 25.8838882,
+        "iha_irtifa": 63.737,
+        "iha_dikilme": 11.4480457,
+        "iha_yonelme": 12.814271,
+        "iha_yatis": 4.770306,
+        "iha_hizi": 16.5534286,
+        "zaman_farki": 476
+      },
+      {
+        "takim_numarasi": 23,
+        "iha_enlem": 40.20249,
+        "iha_boylam": 25.8829212,
+        "iha_irtifa": 0.388,
+        "iha_dikilme": -1.553282,
+        "iha_yonelme": 300.416046,
+        "iha_yatis": -8.800376,
+        "iha_hizi": 0.06077641,
+        "zaman_farki": 26758037
+      },
+      {
+        "takim_numarasi": 25,
+        "iha_enlem": 40.2044945,
+        "iha_boylam": 25.8801632,
+        "iha_irtifa": 113.867,
+        "iha_dikilme": 9.314478,
+        "iha_yonelme": 60.2014046,
+        "iha_yatis": 12.5039759,
+        "iha_hizi": 14.73,
+        "zaman_farki": 1075
+      },
+      {
+        "takim_numarasi": 38,
+        "iha_enlem": 40.20271,
+        "iha_boylam": 25.8816833,
+        "iha_irtifa": 117.0,
+        "iha_dikilme": 2.0,
+        "iha_yonelme": 254.0,
+        "iha_yatis": 31.0,
+        "iha_hizi": 19.0,
+        "zaman_farki": 794
+      }
+    ]
+  },
+  {
+    "konumBilgileri": [
+      {
+        "takim_numarasi": 1,
+        "iha_enlem": 40.20263,
+        "iha_boylam": 25.8826466,
+        "iha_irtifa": 1.72,
+        "iha_dikilme": 8.0,
+        "iha_yonelme": -6.0,
+        "iha_yatis": 1.0,
+        "iha_hizi": 0.0,
+        "zaman_farki": 309
+      },
+      {
+        "takim_numarasi": 2,
+        "iha_enlem": 40.2036057,
+        "iha_boylam": 25.8800678,
+        "iha_irtifa": 118.273,
+        "iha_dikilme": 5.06314945,
+        "iha_yonelme": 328.0,
+        "iha_yatis": -21.7857533,
+        "iha_hizi": 17.5939426,
+        "zaman_farki": 56
+      },
+      {
+        "takim_numarasi": 3,
+        "iha_enlem": 40.20287,
+        "iha_boylam": 25.8827286,
+        "iha_irtifa": 3.45,
+        "iha_dikilme": 11.6918182,
+        "iha_yonelme": 22.0,
+        "iha_yatis": 0.6467026,
+        "iha_hizi": 15.548955,
+        "zaman_farki": 120
+      },
+      {
+        "takim_numarasi": 4,
+        "iha_enlem": 40.20226,
+        "iha_boylam": 25.8825,
+        "iha_irtifa": -0.601,
+        "iha_dikilme": 0.470865875,
+        "iha_yonelme": 287.0,
+        "iha_yatis": -2.710407,
+        "iha_hizi": 0.149037644,
+        "zaman_farki": -933
+      },
+      {
+        "takim_numarasi": 5,
+        "iha_enlem": 40.20666,
+        "iha_boylam": 25.8797359,
+        "iha_irtifa": 104.0,
+        "iha_dikilme": -2.0,
+        "iha_yonelme": 176.0,
+        "iha_yatis": -2.0,
+        "iha_hizi": 26.0,
+        "zaman_farki": 1373
+      },
+      {
+        "takim_numarasi": 7,
+        "iha_enlem": 40.2025528,
+        "iha_boylam": 25.8794289,
+        "iha_irtifa": 80.26,
+        "iha_dikilme": -5.5126,
+        "iha_yonelme": 0.16,
+        "iha_yatis": 13.9612989,
+        "iha_hizi": 15.88,
+        "zaman_farki": -15
+      },
+      {
+        "takim_numarasi": 8,
+        "iha_enlem": 40.2024651,
+        "iha_boylam": 25.8825779,
+        "iha_irtifa": 0.702,
+        "iha_dikilme": -3.0,
+        "iha_yonelme": 196.0,
+        "iha_yatis": 14.0,
+        "iha_hizi": 0.01,
+        "zaman_farki": -2545
+      },
+      {
+        "takim_numarasi": 10,
+        "iha_enlem": 40.2022629,
+        "iha_boylam": 25.8828049,
+        "iha_irtifa": 0.571,
+        "iha_dikilme": 4.10395145,
+        "iha_yonelme": 304.603882,
+        "iha_yatis": 5.54103231,
+        "iha_hizi": 0.0324131623,
+        "zaman_farki": 589
+      },
+      {
+        "takim_numarasi": 11,
+        "iha_enlem": 40.20258,
+        "iha_boylam": 25.8826313,
+        "iha_irtifa": 0.003,
+        "iha_dikilme": 1.28634953,
+        "iha_yonelme": 3.29673719,
+        "iha_yatis": -2.88342357,
+        "iha_hizi": 0.00552893849,
+        "zaman_farki": 533
+      },
+      {
+        "takim_numarasi": 14,
+        "iha_enlem": 40.2018738,
+        "iha_boylam": 25.88147,
+        "iha_irtifa": 118.611,
+        "iha_dikilme": -2.72742462,
+        "iha_yonelme": 15.6278381,
+        "iha_yatis": 6.972213,
+        "iha_hizi": 18.8897686,
+        "zaman_farki": 344
+      },
+      {
+        "takim_numarasi": 16,
+        "iha_enlem": 40.2023773,
+        "iha_boylam": 25.8825436,
+        "iha_irtifa": 0.354,
+        "iha_dikilme": -3.38,
+        "iha_yonelme": 349.0,
+        "iha_yatis": 18.4,
+        "iha_hizi": 0.0227636546,
+        "zaman_farki": 493
+      },
+      {
+        "takim_numarasi": 17,
+        "iha_enlem": 40.2025871,
+        "iha_boylam": 25.8826275,
+        "iha_irtifa": 1.68,
+        "iha_dikilme": -10.2878332,
+        "iha_yonelme": 105.921524,
+        "iha_yatis": -4.387003,
+        "iha_hizi": 1.181292,
+        "zaman_farki": 583
+      },
+      {
+        "takim_numarasi": 18,
+        "iha_enlem": 40.20402,
+        "iha_boylam": 25.88281,
+        "iha_irtifa": 50.211,
+        "iha_dikilme": 6.33198166,
+        "iha_yonelme": 351.0,
+        "iha_yatis": -5.69781446,
+        "iha_hizi": 15.3818674,
+        "zaman_farki": -130
+      },
+      {
+        "takim_numarasi": 19,
+        "iha_enlem": 40.206192,
+        "iha_boylam": 25.8839149,
+        "iha_irtifa": 65.651,
+        "iha_dikilme": 10.1651936,
+        "iha_yonelme": 13.4147825,
+        "iha_yatis": -17.8162174,
+        "iha_hizi": 16.9117489,
+        "zaman_farki": 695
+      },
+      {
+        "takim_numarasi": 23,
+        "iha_enlem": 40.20249,
+        "iha_boylam": 25.8829212,
+        "iha_irtifa": 0.388,
+        "iha_dikilme": -1.553282,
+        "iha_yonelme": 300.416046,
+        "iha_yatis": -8.800376,
+        "iha_hizi": 0.06077641,
+        "zaman_farki": 26759241
+      },
+      {
+        "takim_numarasi": 25,
+        "iha_enlem": 40.2045441,
+        "iha_boylam": 25.8804379,
+        "iha_irtifa": 115.571,
+        "iha_dikilme": 7.376459,
+        "iha_yonelme": 67.90487,
+        "iha_yatis": 21.2110958,
+        "iha_hizi": 15.32,
+        "zaman_farki": 1780
+      },
+      {
+        "takim_numarasi": 38,
+        "iha_enlem": 40.20268,
+        "iha_boylam": 25.8813648,
+        "iha_irtifa": 116.0,
+        "iha_dikilme": 3.0,
+        "iha_yonelme": 276.0,
+        "iha_yatis": 23.0,
+        "iha_hizi": 17.0,
+        "zaman_farki": 352
+      }
+    ]
+  },
+  {
+    "konumBilgileri": [
+      {
+        "takim_numarasi": 1,
+        "iha_enlem": 40.20263,
+        "iha_boylam": 25.8826485,
+        "iha_irtifa": 2.2,
+        "iha_dikilme": 11.0,
+        "iha_yonelme": 3.0,
+        "iha_yatis": 6.0,
+        "iha_hizi": 0.0,
+        "zaman_farki": 0
+      },
+      {
+        "takim_numarasi": 2,
+        "iha_enlem": 40.2037163,
+        "iha_boylam": 25.8798981,
+        "iha_irtifa": 118.936,
+        "iha_dikilme": 4.016834,
+        "iha_yonelme": 306.0,
+        "iha_yatis": -24.9441338,
+        "iha_hizi": 17.8859653,
+        "zaman_farki": 229
+      },
+      {
+        "takim_numarasi": 3,
+        "iha_enlem": 40.20294,
+        "iha_boylam": 25.88275,
+        "iha_irtifa": 6.129,
+        "iha_dikilme": 17.20382,
+        "iha_yonelme": 8.0,
+        "iha_yatis": 0.412403733,
+        "iha_hizi": 16.7932167,
+        "zaman_farki": 286
+      },
+      {
+        "takim_numarasi": 4,
+        "iha_enlem": 40.20226,
+        "iha_boylam": 25.8824959,
+        "iha_irtifa": -0.171,
+        "iha_dikilme": -0.49969402,
+        "iha_yonelme": 286.0,
+        "iha_yatis": -2.95747733,
+        "iha_hizi": 0.157428861,
+        "zaman_farki": -758
+      },
+      {
+        "takim_numarasi": 5,
+        "iha_enlem": 40.206295,
+        "iha_boylam": 25.8797054,
+        "iha_irtifa": 104.0,
+        "iha_dikilme": 6.0,
+        "iha_yonelme": 180.0,
+        "iha_yatis": 6.0,
+        "iha_hizi": 26.0,
+        "zaman_farki": 1348
+      },
+      {
+        "takim_numarasi": 7,
+        "iha_enlem": 40.20269,
+        "iha_boylam": 25.8794518,
+        "iha_irtifa": 80.105,
+        "iha_dikilme": -5.85796165,
+        "iha_yonelme": 7.86,
+        "iha_yatis": 5.947071,
+        "iha_hizi": 15.84,
+        "zaman_farki": 177
+      },
+      {
+        "takim_numarasi": 8,
+        "iha_enlem": 40.2024651,
+        "iha_boylam": 25.8825779,
+        "iha_irtifa": 0.664,
+        "iha_dikilme": -3.0,
+        "iha_yonelme": 196.0,
+        "iha_yatis": 14.0,
+        "iha_hizi": 0.02828427,
+        "zaman_farki": -2442
+      },
+      {
+        "takim_numarasi": 10,
+        "iha_enlem": 40.2022629,
+        "iha_boylam": 25.8828049,
+        "iha_irtifa": 0.584,
+        "iha_dikilme": 3.88976884,
+        "iha_yonelme": 305.153473,
+        "iha_yatis": 5.532829,
+        "iha_hizi": 0.05674887,
+        "zaman_farki": 647
+      },
+      {
+        "takim_numarasi": 11,
+        "iha_enlem": 40.20258,
+        "iha_boylam": 25.8826332,
+        "iha_irtifa": -0.056,
+        "iha_dikilme": 1.22599483,
+        "iha_yonelme": 3.258197,
+        "iha_yatis": -2.828018,
+        "iha_hizi": 0.0111252265,
+        "zaman_farki": -35
+      },
+      {
+        "takim_numarasi": 14,
+        "iha_enlem": 40.2021255,
+        "iha_boylam": 25.8815365,
+        "iha_irtifa": 119.834,
+        "iha_dikilme": -4.70821142,
+        "iha_yonelme": 11.183939,
+        "iha_yatis": 7.89936829,
+        "iha_hizi": 18.7765846,
+        "zaman_farki": 295
+      },
+      {
+        "takim_numarasi": 16,
+        "iha_enlem": 40.2023773,
+        "iha_boylam": 25.8825417,
+        "iha_irtifa": 0.36,
+        "iha_dikilme": -3.39,
+        "iha_yonelme": 349.0,
+        "iha_yatis": 18.38,
+        "iha_hizi": 0.0310096648,
+        "zaman_farki": 825
+      },
+      {
+        "takim_numarasi": 17,
+        "iha_enlem": 40.2025871,
+        "iha_boylam": 25.8826256,
+        "iha_irtifa": 1.9,
+        "iha_dikilme": 2.171814,
+        "iha_yonelme": 71.54759,
+        "iha_yatis": -4.402472,
+        "iha_hizi": 0.4584562,
+        "zaman_farki": 283
+      },
+      {
+        "takim_numarasi": 18,
+        "iha_enlem": 40.2041473,
+        "iha_boylam": 25.88279,
+        "iha_irtifa": 50.882,
+        "iha_dikilme": 5.86147833,
+        "iha_yonelme": 357.0,
+        "iha_yatis": -0.532786548,
+        "iha_hizi": 13.4933615,
+        "zaman_farki": -11
+      },
+      {
+        "takim_numarasi": 19,
+        "iha_enlem": 40.206192,
+        "iha_boylam": 25.8839149,
+        "iha_irtifa": 65.651,
+        "iha_dikilme": 8.411354,
+        "iha_yonelme": 353.073547,
+        "iha_yatis": -21.27552,
+        "iha_hizi": 17.5152225,
+        "zaman_farki": 895
+      },
+      {
+        "takim_numarasi": 23,
+        "iha_enlem": 40.20249,
+        "iha_boylam": 25.8829212,
+        "iha_irtifa": 0.388,
+        "iha_dikilme": -1.553282,
+        "iha_yonelme": 300.416046,
+        "iha_yatis": -8.800376,
+        "iha_hizi": 0.06077641,
+        "zaman_farki": 26760432
+      },
+      {
+        "takim_numarasi": 25,
+        "iha_enlem": 40.2045,
+        "iha_boylam": 25.880825,
+        "iha_irtifa": 116.311,
+        "iha_dikilme": 14.9429512,
+        "iha_yonelme": 99.45444,
+        "iha_yatis": 23.5296612,
+        "iha_hizi": 16.33,
+        "zaman_farki": 1470
+      },
+      {
+        "takim_numarasi": 38,
+        "iha_enlem": 40.20271,
+        "iha_boylam": 25.88116,
+        "iha_irtifa": 117.0,
+        "iha_dikilme": 2.0,
+        "iha_yonelme": 290.0,
+        "iha_yatis": 26.0,
+        "iha_hizi": 17.0,
+        "zaman_farki": 423
+      }
+    ]
+  },
+  {
+    "konumBilgileri": [
+      {
+        "takim_numarasi": 1,
+        "iha_enlem": 40.20263,
+        "iha_boylam": 25.8826485,
+        "iha_irtifa": 2.084,
+        "iha_dikilme": 12.0,
+        "iha_yonelme": 4.0,
+        "iha_yatis": 1.0,
+        "iha_hizi": 0.0,
+        "zaman_farki": 391
+      },
+      {
+        "takim_numarasi": 2,
+        "iha_enlem": 40.2037735,
+        "iha_boylam": 25.8796978,
+        "iha_irtifa": 120.915,
+        "iha_dikilme": 4.961572,
+        "iha_yonelme": 291.0,
+        "iha_yatis": -19.4456825,
+        "iha_hizi": 17.5117912,
+        "zaman_farki": 415
+      },
+      {
+        "takim_numarasi": 3,
+        "iha_enlem": 40.2030945,
+        "iha_boylam": 25.8827782,
+        "iha_irtifa": 13.236,
+        "iha_dikilme": 11.6982794,
+        "iha_yonelme": 3.0,
+        "iha_yatis": 3.711294,
+        "iha_hizi": 20.21085,
+        "zaman_farki": 523
+      },
+      {
+        "takim_numarasi": 4,
+        "iha_enlem": 40.2022552,
+        "iha_boylam": 25.882494,
+        "iha_irtifa": -0.288,
+        "iha_dikilme": 1.89546478,
+        "iha_yonelme": 290.0,
+        "iha_yatis": -3.461339,
+        "iha_hizi": 0.146305114,
+        "zaman_farki": -556
+      },
+      {
+        "takim_numarasi": 5,
+        "iha_enlem": 40.2060623,
+        "iha_boylam": 25.8796673,
+        "iha_irtifa": 107.0,
+        "iha_dikilme": 8.0,
+        "iha_yonelme": 183.0,
+        "iha_yatis": 3.0,
+        "iha_hizi": 25.0,
+        "zaman_farki": 1346
+      },
+      {
+        "takim_numarasi": 7,
+        "iha_enlem": 40.20286,
+        "iha_boylam": 25.8795,
+        "iha_irtifa": 79.876,
+        "iha_dikilme": -4.682644,
+        "iha_yonelme": 8.78,
+        "iha_yatis": 1.09919238,
+        "iha_hizi": 14.45,
+        "zaman_farki": 68
+      },
+      {
+        "takim_numarasi": 8,
+        "iha_enlem": 40.2024651,
+        "iha_boylam": 25.8825779,
+        "iha_irtifa": 0.632,
+        "iha_dikilme": -3.0,
+        "iha_yonelme": 196.0,
+        "iha_yatis": 14.0,
+        "iha_hizi": 0.0424264073,
+        "zaman_farki": -2286
+      },
+      {
+        "takim_numarasi": 10,
+        "iha_enlem": 40.2022629,
+        "iha_boylam": 25.8828049,
+        "iha_irtifa": 0.608,
+        "iha_dikilme": 3.469276,
+        "iha_yonelme": 304.956177,
+        "iha_yatis": 5.78901243,
+        "iha_hizi": 0.07108447,
+        "zaman_farki": 211
+      },
+      {
+        "takim_numarasi": 11,
+        "iha_enlem": 40.20258,
+        "iha_boylam": 25.8826332,
+        "iha_irtifa": -0.053,
+        "iha_dikilme": 1.12004769,
+        "iha_yonelme": 3.22685313,
+        "iha_yatis": -2.78310537,
+        "iha_hizi": 0.0119942846,
+        "zaman_farki": -64
+      },
+      {
+        "takim_numarasi": 14,
+        "iha_enlem": 40.2022934,
+        "iha_boylam": 25.88158,
+        "iha_irtifa": 119.597,
+        "iha_dikilme": -5.879481,
+        "iha_yonelme": 11.8116922,
+        "iha_yatis": 5.04881334,
+        "iha_hizi": 18.7038364,
+        "zaman_farki": 246
+      },
+      {
+        "takim_numarasi": 16,
+        "iha_enlem": 40.2023773,
+        "iha_boylam": 25.8825417,
+        "iha_irtifa": 0.389,
+        "iha_dikilme": -3.38,
+        "iha_yonelme": 349.0,
+        "iha_yatis": 18.37,
+        "iha_hizi": 0.0398319773,
+        "zaman_farki": 1336
+      },
+      {
+        "takim_numarasi": 17,
+        "iha_enlem": 40.2025871,
+        "iha_boylam": 25.882618,
+        "iha_irtifa": 1.979,
+        "iha_dikilme": 5.59494543,
+        "iha_yonelme": 39.1230125,
+        "iha_yatis": 5.034762,
+        "iha_hizi": 0.5964409,
+        "zaman_farki": 489
+      },
+      {
+        "takim_numarasi": 18,
+        "iha_enlem": 40.204258,
+        "iha_boylam": 25.8827782,
+        "iha_irtifa": 51.49,
+        "iha_dikilme": 6.46206474,
+        "iha_yonelme": 0.0,
+        "iha_yatis": 5.38126945,
+        "iha_hizi": 11.53578,
+        "zaman_farki": 271
+      },
+      {
+        "takim_numarasi": 19,
+        "iha_enlem": 40.2065735,
+        "iha_boylam": 25.8839378,
+        "iha_irtifa": 72.85,
+        "iha_dikilme": 8.602579,
+        "iha_yonelme": 344.6468,
+        "iha_yatis": -0.149750054,
+        "iha_hizi": 17.9073887,
+        "zaman_farki": 148
+      },
+      {
+        "takim_numarasi": 23,
+        "iha_enlem": 40.20249,
+        "iha_boylam": 25.8829212,
+        "iha_irtifa": 0.388,
+        "iha_dikilme": -1.553282,
+        "iha_yonelme": 300.416046,
+        "iha_yatis": -8.800376,
+        "iha_hizi": 0.06077641,
+        "zaman_farki": 26761643
+      },
+      {
+        "takim_numarasi": 25,
+        "iha_enlem": 40.2044258,
+        "iha_boylam": 25.8810081,
+        "iha_irtifa": 117.903,
+        "iha_dikilme": 8.94676,
+        "iha_yonelme": 111.748131,
+        "iha_yatis": 12.6203461,
+        "iha_hizi": 17.52,
+        "zaman_farki": 681
+      },
+      {
+        "takim_numarasi": 38,
+        "iha_enlem": 40.2028122,
+        "iha_boylam": 25.8808937,
+        "iha_irtifa": 117.0,
+        "iha_dikilme": 0.0,
+        "iha_yonelme": 311.0,
+        "iha_yatis": 26.0,
+        "iha_hizi": 16.0,
+        "zaman_farki": 199
+      }
+    ]
+  },
+  {
+    "konumBilgileri": [
+      {
+        "takim_numarasi": 1,
+        "iha_enlem": 40.20263,
+        "iha_boylam": 25.8826466,
+        "iha_irtifa": 2.173,
+        "iha_dikilme": 16.0,
+        "iha_yonelme": 1.0,
+        "iha_yatis": -5.0,
+        "iha_hizi": 0.0,
+        "zaman_farki": 151
+      },
+      {
+        "takim_numarasi": 2,
+        "iha_enlem": 40.2037964,
+        "iha_boylam": 25.8793716,
+        "iha_irtifa": 122.001,
+        "iha_dikilme": 1.38225949,
+        "iha_yonelme": 278.0,
+        "iha_yatis": -23.9314728,
+        "iha_hizi": 18.2186623,
+        "zaman_farki": 74
+      },
+      {
+        "takim_numarasi": 3,
+        "iha_enlem": 40.2032738,
+        "iha_boylam": 25.8828011,
+        "iha_irtifa": 19.419,
+        "iha_dikilme": 18.8462238,
+        "iha_yonelme": 0.0,
+        "iha_yatis": 11.4127617,
+        "iha_hizi": 21.1193275,
+        "zaman_farki": 698
+      },
+      {
+        "takim_numarasi": 4,
+        "iha_enlem": 40.2022552,
+        "iha_boylam": 25.8824959,
+        "iha_irtifa": -0.345,
+        "iha_dikilme": -0.3376967,
+        "iha_yonelme": 289.0,
+        "iha_yatis": -4.90906763,
+        "iha_hizi": 0.06890836,
+        "zaman_farki": -369
+      },
+      {
+        "takim_numarasi": 5,
+        "iha_enlem": 40.2057457,
+        "iha_boylam": 25.8796024,
+        "iha_irtifa": 110.0,
+        "iha_dikilme": 3.0,
+        "iha_yonelme": 187.0,
+        "iha_yatis": 5.0,
+        "iha_hizi": 23.0,
+        "zaman_farki": 1324
+      },
+      {
+        "takim_numarasi": 7,
+        "iha_enlem": 40.2029839,
+        "iha_boylam": 25.8795376,
+        "iha_irtifa": 79.354,
+        "iha_dikilme": -2.73905921,
+        "iha_yonelme": 13.59,
+        "iha_yatis": -1.65458941,
+        "iha_hizi": 14.11,
+        "zaman_farki": 268
+      },
+      {
+        "takim_numarasi": 8,
+        "iha_enlem": 40.2024651,
+        "iha_boylam": 25.8825779,
+        "iha_irtifa": 0.588,
+        "iha_dikilme": -3.0,
+        "iha_yonelme": 196.0,
+        "iha_yatis": 14.0,
+        "iha_hizi": 0.01,
+        "zaman_farki": -2671
+      },
+      {
+        "takim_numarasi": 10,
+        "iha_enlem": 40.2022629,
+        "iha_boylam": 25.8828049,
+        "iha_irtifa": 0.617,
+        "iha_dikilme": 4.415243,
+        "iha_yonelme": 305.159637,
+        "iha_yatis": 6.232612,
+        "iha_hizi": 0.0592325851,
+        "zaman_farki": 890
+      },
+      {
+        "takim_numarasi": 11,
+        "iha_enlem": 40.20258,
+        "iha_boylam": 25.8826332,
+        "iha_irtifa": -0.04,
+        "iha_dikilme": 1.21487737,
+        "iha_yonelme": 3.3002944,
+        "iha_yatis": -2.65194631,
+        "iha_hizi": 0.005921347,
+        "zaman_farki": 136
+      },
+      {
+        "takim_numarasi": 14,
+        "iha_enlem": 40.20254,
+        "iha_boylam": 25.88165,
+        "iha_irtifa": 119.374,
+        "iha_dikilme": -5.461463,
+        "iha_yonelme": 10.3131523,
+        "iha_yatis": -6.366523,
+        "iha_hizi": 18.6871147,
+        "zaman_farki": 206
+      },
+      {
+        "takim_numarasi": 16,
+        "iha_enlem": 40.2023773,
+        "iha_boylam": 25.8825417,
+        "iha_irtifa": 0.423,
+        "iha_dikilme": -3.36,
+        "iha_yonelme": 349.0,
+        "iha_yatis": 18.38,
+        "iha_hizi": 0.042148415,
+        "zaman_farki": 1656
+      },
+      {
+        "takim_numarasi": 17,
+        "iha_enlem": 40.20259,
+        "iha_boylam": 25.88261,
+        "iha_irtifa": 1.959,
+        "iha_dikilme": 4.20800924,
+        "iha_yonelme": 35.84428,
+        "iha_yatis": 4.408559,
+        "iha_hizi": 0.605077147,
+        "zaman_farki": 195
+      },
+      {
+        "takim_numarasi": 18,
+        "iha_enlem": 40.2043571,
+        "iha_boylam": 25.8827763,
+        "iha_irtifa": 51.076,
+        "iha_dikilme": 4.932882,
+        "iha_yonelme": 9.0,
+        "iha_yatis": 5.7186656,
+        "iha_hizi": 10.6293526,
+        "zaman_farki": 400
+      },
+      {
+        "takim_numarasi": 19,
+        "iha_enlem": 40.2068062,
+        "iha_boylam": 25.8838711,
+        "iha_irtifa": 76.492,
+        "iha_dikilme": 9.22843552,
+        "iha_yonelme": 349.281036,
+        "iha_yatis": 4.03587627,
+        "iha_hizi": 18.32533,
+        "zaman_farki": 363
+      },
+      {
+        "takim_numarasi": 23,
+        "iha_enlem": 40.20249,
+        "iha_boylam": 25.8829212,
+        "iha_irtifa": 0.388,
+        "iha_dikilme": -1.553282,
+        "iha_yonelme": 300.416046,
+        "iha_yatis": -8.800376,
+        "iha_hizi": 0.06077641,
+        "zaman_farki": 26762843
+      },
+      {
+        "takim_numarasi": 25,
+        "iha_enlem": 40.20434,
+        "iha_boylam": 25.881176,
+        "iha_irtifa": 118.741,
+        "iha_dikilme": 10.1779871,
+        "iha_yonelme": 113.73835,
+        "iha_yatis": 12.27038,
+        "iha_hizi": 17.46,
+        "zaman_farki": 880
+      },
+      {
+        "takim_numarasi": 38,
+        "iha_enlem": 40.2029266,
+        "iha_boylam": 25.8807564,
+        "iha_irtifa": 116.0,
+        "iha_dikilme": 2.0,
+        "iha_yonelme": 328.0,
+        "iha_yatis": 25.0,
+        "iha_hizi": 16.0,
+        "zaman_farki": 287
+      }
+    ]
+  },
+  {
+    "konumBilgileri": [
+      {
+        "takim_numarasi": 1,
+        "iha_enlem": 40.2026253,
+        "iha_boylam": 25.8826466,
+        "iha_irtifa": 2.2,
+        "iha_dikilme": 17.0,
+        "iha_yonelme": 3.0,
+        "iha_yatis": -4.0,
+        "iha_hizi": 0.0,
+        "zaman_farki": 99
+      },
+      {
+        "takim_numarasi": 2,
+        "iha_enlem": 40.2037659,
+        "iha_boylam": 25.87916,
+        "iha_irtifa": 121.418,
+        "iha_dikilme": 1.97820973,
+        "iha_yonelme": 251.0,
+        "iha_yatis": -31.2672749,
+        "iha_hizi": 18.6007042,
+        "zaman_farki": 237
+      },
+      {
+        "takim_numarasi": 3,
+        "iha_enlem": 40.20346,
+        "iha_boylam": 25.88283,
+        "iha_irtifa": 28.852,
+        "iha_dikilme": 17.9322929,
+        "iha_yonelme": 4.0,
+        "iha_yatis": 15.9891224,
+        "iha_hizi": 21.3603172,
+        "zaman_farki": 911
+      },
+      {
+        "takim_numarasi": 4,
+        "iha_enlem": 40.2022552,
+        "iha_boylam": 25.882494,
+        "iha_irtifa": -0.321,
+        "iha_dikilme": 0.334616363,
+        "iha_yonelme": 285.0,
+        "iha_yatis": -4.289217,
+        "iha_hizi": 0.320292532,
+        "zaman_farki": -190
+      },
+      {
+        "takim_numarasi": 5,
+        "iha_enlem": 40.20554,
+        "iha_boylam": 25.8795567,
+        "iha_irtifa": 109.0,
+        "iha_dikilme": 0.0,
+        "iha_yonelme": 189.0,
+        "iha_yatis": 2.0,
+        "iha_hizi": 23.0,
+        "zaman_farki": 1299
+      },
+      {
+        "takim_numarasi": 7,
+        "iha_enlem": 40.203064,
+        "iha_boylam": 25.8795624,
+        "iha_irtifa": 78.522,
+        "iha_dikilme": -1.01956141,
+        "iha_yonelme": 13.57,
+        "iha_yatis": -4.031605,
+        "iha_hizi": 14.01,
+        "zaman_farki": 796
+      },
+      {
+        "takim_numarasi": 8,
+        "iha_enlem": 40.2024651,
+        "iha_boylam": 25.8825779,
+        "iha_irtifa": 0.588,
+        "iha_dikilme": -3.0,
+        "iha_yonelme": 196.0,
+        "iha_yatis": 14.0,
+        "iha_hizi": 0.01,
+        "zaman_farki": -2568
+      },
+      {
+        "takim_numarasi": 10,
+        "iha_enlem": 40.2022667,
+        "iha_boylam": 25.8828068,
+        "iha_irtifa": 0.637,
+        "iha_dikilme": 5.412366,
+        "iha_yonelme": 307.4569,
+        "iha_yatis": 8.031653,
+        "iha_hizi": 0.0354972258,
+        "zaman_farki": 651
+      },
+      {
+        "takim_numarasi": 11,
+        "iha_enlem": 40.20258,
+        "iha_boylam": 25.8826332,
+        "iha_irtifa": -0.023,
+        "iha_dikilme": 1.23649287,
+        "iha_yonelme": 3.29278088,
+        "iha_yatis": -2.618651,
+        "iha_hizi": 0.008606468,
+        "zaman_farki": 324
+      },
+      {
+        "takim_numarasi": 14,
+        "iha_enlem": 40.20254,
+        "iha_boylam": 25.88165,
+        "iha_irtifa": 119.374,
+        "iha_dikilme": -5.461463,
+        "iha_yonelme": 10.3131523,
+        "iha_yatis": -6.366523,
+        "iha_hizi": 18.6871147,
+        "zaman_farki": 634
+      },
+      {
+        "takim_numarasi": 16,
+        "iha_enlem": 40.2023773,
+        "iha_boylam": 25.8825417,
+        "iha_irtifa": 0.445,
+        "iha_dikilme": -3.35,
+        "iha_yonelme": 349.0,
+        "iha_yatis": 18.4,
+        "iha_hizi": 0.0413611047,
+        "zaman_farki": 1704
+      },
+      {
+        "takim_numarasi": 17,
+        "iha_enlem": 40.2025948,
+        "iha_boylam": 25.8826065,
+        "iha_irtifa": 1.849,
+        "iha_dikilme": 4.20800924,
+        "iha_yonelme": 35.84428,
+        "iha_yatis": 4.408559,
+        "iha_hizi": 0.3036836,
+        "zaman_farki": 381
+      },
+      {
+        "takim_numarasi": 18,
+        "iha_enlem": 40.2044563,
+        "iha_boylam": 25.8827915,
+        "iha_irtifa": 50.019,
+        "iha_dikilme": -2.74441648,
+        "iha_yonelme": 13.0,
+        "iha_yatis": 8.898103,
+        "iha_hizi": 10.848587,
+        "zaman_farki": 645
+      },
+      {
+        "takim_numarasi": 19,
+        "iha_enlem": 40.2068062,
+        "iha_boylam": 25.8838711,
+        "iha_irtifa": 76.492,
+        "iha_dikilme": 9.535922,
+        "iha_yonelme": 350.822632,
+        "iha_yatis": 5.302516,
+        "iha_hizi": 18.1261158,
+        "zaman_farki": 452
+      },
+      {
+        "takim_numarasi": 23,
+        "iha_enlem": 40.20249,
+        "iha_boylam": 25.8829212,
+        "iha_irtifa": 0.388,
+        "iha_dikilme": -1.553282,
+        "iha_yonelme": 300.416046,
+        "iha_yatis": -8.800376,
+        "iha_hizi": 0.06077641,
+        "zaman_farki": 26764031
+      },
+      {
+        "takim_numarasi": 25,
+        "iha_enlem": 40.2042961,
+        "iha_boylam": 25.8812561,
+        "iha_irtifa": 118.899,
+        "iha_dikilme": 9.23842,
+        "iha_yonelme": 120.161537,
+        "iha_yatis": 12.2451315,
+        "iha_hizi": 16.86,
+        "zaman_farki": 1069
+      },
+      {
+        "takim_numarasi": 38,
+        "iha_enlem": 40.20306,
+        "iha_boylam": 25.8806572,
+        "iha_irtifa": 116.0,
+        "iha_dikilme": 4.0,
+        "iha_yonelme": 338.0,
+        "iha_yatis": 25.0,
+        "iha_hizi": 16.0,
+        "zaman_farki": 618
+      }
+    ]
+  },
+  {
+    "konumBilgileri": [
+      {
+        "takim_numarasi": 1,
+        "iha_enlem": 40.2026253,
+        "iha_boylam": 25.8826466,
+        "iha_irtifa": 2.16,
+        "iha_dikilme": 16.0,
+        "iha_yonelme": 3.0,
+        "iha_yatis": -4.0,
+        "iha_hizi": 0.0,
+        "zaman_farki": -227
+      },
+      {
+        "takim_numarasi": 2,
+        "iha_enlem": 40.20367,
+        "iha_boylam": 25.87897,
+        "iha_irtifa": 121.569,
+        "iha_dikilme": 4.93136072,
+        "iha_yonelme": 229.0,
+        "iha_yatis": -26.3657589,
+        "iha_hizi": 18.5905457,
+        "zaman_farki": 400
+      },
+      {
+        "takim_numarasi": 3,
+        "iha_enlem": 40.20395,
+        "iha_boylam": 25.8829613,
+        "iha_irtifa": 52.428,
+        "iha_dikilme": 16.6334133,
+        "iha_yonelme": 7.0,
+        "iha_yatis": 12.067276,
+        "iha_hizi": 22.5519562,
+        "zaman_farki": 110
+      },
+      {
+        "takim_numarasi": 4,
+        "iha_enlem": 40.20226,
+        "iha_boylam": 25.8824978,
+        "iha_irtifa": -0.062,
+        "iha_dikilme": -0.218492121,
+        "iha_yonelme": 284.0,
+        "iha_yatis": -4.21981573,
+        "iha_hizi": 0.379419327,
+        "zaman_farki": -1016
+      },
+      {
+        "takim_numarasi": 5,
+        "iha_enlem": 40.20533,
+        "iha_boylam": 25.8795013,
+        "iha_irtifa": 108.0,
+        "iha_dikilme": 2.0,
+        "iha_yonelme": 189.0,
+        "iha_yatis": 5.0,
+        "iha_hizi": 24.0,
+        "zaman_farki": 1246
+      },
+      {
+        "takim_numarasi": 7,
+        "iha_enlem": 40.2033043,
+        "iha_boylam": 25.8796253,
+        "iha_irtifa": 78.222,
+        "iha_dikilme": -0.9579347,
+        "iha_yonelme": 9.35,
+        "iha_yatis": -2.37599254,
+        "iha_hizi": 13.41,
+        "zaman_farki": -10
+      },
+      {
+        "takim_numarasi": 8,
+        "iha_enlem": 40.2024651,
+        "iha_boylam": 25.8825779,
+        "iha_irtifa": 0.569,
+        "iha_dikilme": -3.0,
+        "iha_yonelme": 196.0,
+        "iha_yatis": 14.0,
+        "iha_hizi": 0.02236068,
+        "zaman_farki": -2417
+      },
+      {
+        "takim_numarasi": 10,
+        "iha_enlem": 40.2022667,
+        "iha_boylam": 25.8828068,
+        "iha_irtifa": 0.626,
+        "iha_dikilme": 6.52196026,
+        "iha_yonelme": 307.097626,
+        "iha_yatis": 8.64529,
+        "iha_hizi": 0.02039078,
+        "zaman_farki": 653
+      },
+      {
+        "takim_numarasi": 11,
+        "iha_enlem": 40.20258,
+        "iha_boylam": 25.8826332,
+        "iha_irtifa": 0.0,
+        "iha_dikilme": 1.22575879,
+        "iha_yonelme": 3.293136,
+        "iha_yatis": -2.64256072,
+        "iha_hizi": 0.008595117,
+        "zaman_farki": 518
+      },
+      {
+        "takim_numarasi": 14,
+        "iha_enlem": 40.2029572,
+        "iha_boylam": 25.88158,
+        "iha_irtifa": 124.35,
+        "iha_dikilme": 20.5830345,
+        "iha_yonelme": 330.5603,
+        "iha_yatis": -6.90337229,
+        "iha_hizi": 18.44422,
+        "zaman_farki": 88
+      },
+      {
+        "takim_numarasi": 16,
+        "iha_enlem": 40.2023773,
+        "iha_boylam": 25.8825417,
+        "iha_irtifa": 1.115,
+        "iha_dikilme": 1.64,
+        "iha_yonelme": 354.0,
+        "iha_yatis": 16.26,
+        "iha_hizi": 0.170464247,
+        "zaman_farki": -42
+      },
+      {
+        "takim_numarasi": 17,
+        "iha_enlem": 40.2025948,
+        "iha_boylam": 25.8826065,
+        "iha_irtifa": 1.849,
+        "iha_dikilme": 4.20800924,
+        "iha_yonelme": 35.84428,
+        "iha_yatis": 4.408559,
+        "iha_hizi": 0.198396921,
+        "zaman_farki": 566
+      },
+      {
+        "takim_numarasi": 18,
+        "iha_enlem": 40.2046623,
+        "iha_boylam": 25.8828049,
+        "iha_irtifa": 49.142,
+        "iha_dikilme": 0.8139013,
+        "iha_yonelme": 8.0,
+        "iha_yatis": 0.2969887,
+        "iha_hizi": 11.1050816,
+        "zaman_farki": -163
+      },
+      {
+        "takim_numarasi": 19,
+        "iha_enlem": 40.2072067,
+        "iha_boylam": 25.8837585,
+        "iha_irtifa": 83.737,
+        "iha_dikilme": 8.127254,
+        "iha_yonelme": 350.6325,
+        "iha_yatis": -1.3958528,
+        "iha_hizi": 18.0093479,
+        "zaman_farki": 665
+      },
+      {
+        "takim_numarasi": 23,
+        "iha_enlem": 40.20249,
+        "iha_boylam": 25.8829212,
+        "iha_irtifa": 0.388,
+        "iha_dikilme": -1.553282,
+        "iha_yonelme": 300.416046,
+        "iha_yatis": -8.800376,
+        "iha_hizi": 0.06077641,
+        "zaman_farki": 26765225
+      },
+      {
+        "takim_numarasi": 25,
+        "iha_enlem": 40.2041969,
+        "iha_boylam": 25.8814087,
+        "iha_irtifa": 119.753,
+        "iha_dikilme": 7.24790239,
+        "iha_yonelme": 127.835449,
+        "iha_yatis": 21.8844032,
+        "iha_hizi": 17.22,
+        "zaman_farki": 1245
+      },
+      {
+        "takim_numarasi": 38,
+        "iha_enlem": 40.2032051,
+        "iha_boylam": 25.8806038,
+        "iha_irtifa": 116.0,
+        "iha_dikilme": 5.0,
+        "iha_yonelme": 349.0,
+        "iha_yatis": 25.0,
+        "iha_hizi": 17.0,
+        "zaman_farki": 672
+      }
+    ]
+  }
+]

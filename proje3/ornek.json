@@ -1,84 +1,44 @@
-{
-    "books": [
-        {
-            "id": 1,
-            "title": "Momo",
-            "author": "Michael Ende",
-            "year": 1973,
-            "available": true,
-            "borrowed_by": null
-        },
-        {
-            "id": 2,
-            "title": "1984",
-            "author": "George Orwell",
-            "year": 1949,
-            "available": true,
-            "borrowed_by": null
-        },
-        {
-            "id": 3,
-            "title": "Yeraltından Notlar",
-            "author": "Fyodor Dostoyevski",
-            "year": 1864,
-            "available": false,
-            "borrowed_by": "Ali"
-        },
-        {
-            "id": 4,
-            "title": "Suç ve Ceza",
-            "author": "Fyodor Dostoyevski",
-            "year": 1866,
-            "available": true,
-            "borrowed_by": null
-        },
-        {
-            "id": 5,
-            "title": "Python Crash Course",
-            "author": "Eric Matthes",
-            "year": 2019,
-            "available": true,
-            "borrowed_by": null
-        },
-        {
-            "id": 6,
-            "title": "Clean Code",
-            "author": "Robert C. Martin",
-            "year": 2008,
-            "available": false,
-            "borrowed_by": "Zeynep"
-        },
-        {
-            "id": 7,
-            "title": "Bir Bilim Adamının Romanı",
-            "author": "Oğuz Atay",
-            "year": 1975,
-            "available": true,
-            "borrowed_by": null
-        },
-        {
-            "id": 8,
-            "title": "İstanbul Hatırası",
-            "author": "Ahmet Ümit",
-            "year": 2010,
-            "available": true,
-            "borrowed_by": null
-        },
-        {
-            "id": 9,
-            "title": "Sapiens",
-            "author": "Yuval Noah Harari",
-            "year": 2011,
-            "available": true,
-            "borrowed_by": null
-        },
-        {
-            "id": 10,
-            "title": "Atomik Alışkanlıklar",
-            "author": "James Clear",
-            "year": 2018,
-            "available": true,
-            "borrowed_by": null
-        }
-    ]
-}
+[
+    {
+        "id": 1,
+        "ad": "Nutuk",
+        "yazar": "Mustafa Kemal Atatürk",
+        "durum": "rafta"
+    },
+    {
+        "id": 2,
+        "ad": "Suç ve Ceza",
+        "yazar": "Fyodor Dostoyevski",
+        "durum": "rafta"
+    },
+    {
+        "id": 3,
+        "ad": "1984",
+        "yazar": "George Orwell",
+        "durum": "odunc_verildi"
+    },
+    {
+        "id": 4,
+        "ad": "Simyacı",
+        "yazar": "Paulo Coelho",
+        "durum": "rafta"
+    },
+    {
+        "id": 5,
+        "ad": "Kürk Mantolu Madonna",
+        "yazar": "Sabahattin Ali",
+        "durum": "rafta"
+    },
+    {
+        "id": 6,
+        "ad": "Tunahan",
+        "yazar": "tunahan",
+        "durum": "rafta"
+    },
+    {
+        "id": 7,
+        "ad": "Kesanli Ali Destanı",
+        "yazar": "Haldun Taner",
+        "durum": "rafta"
+    }
+]
